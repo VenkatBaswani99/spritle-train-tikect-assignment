@@ -1,0 +1,212 @@
+.design {
+    /* text-align: start; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.box2 {
+    width: 40%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.table {
+    align-items: center;
+    display: flex;
+    width: 100%;
+}
+
+.book {
+    text-decoration: none;
+    display: inline-block;
+    padding: 0px 10px;
+
+
+}
+
+.images {
+    width: 200px;
+}
+
+.buttonpage {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: end;
+}
+
+.evenseat {
+    text-align: center;
+}
+
+.table1 {
+    margin: 15px;
+}
+
+.table2 {
+    margin: 15px;
+}
+
+
+.btn {
+    margin: 15px;
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.war {
+    text-align: center;
+    color: red;
+    font-size: 10px;
+}
+
+
+.imageur {
+    justify-content: center;
+}
+
+
+
+.welc {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.mas {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.stu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.answ {
+    font-size: 40px;
+    color: green;
+    font-family: Roboto;
+}
+
+.ima {
+    font-size: 50px;
+
+
+}
+
+.seatbook {
+    text-align: left;
+    color: blue;
+    font-size: 25px;
+
+}
+
+.imag {
+    font-size: 70px;
+    color: green;
+    white-space: pre-line;
+}
+
+.logout {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: end;
+
+}
+
+.book {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.fill {
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+
+.imagest {
+    font-size: 50px;
+    background-color: lightgreen;
+
+}
+
+.boo {
+    color: green;
+
+
+}
+
+.buttonpage {
+    display: flex;
+
+    flex-direction: column;
+    justify-content: end;
+    align-items: end;
+}
+
+.imagests {
+    font-size: 100px;
+    color: blue;
+}
+
+.numberss {
+    display: none;
+
+}
+
+@media only screen and (max-width:575px) {
+    .ima {
+        font-size: 50px;
+    }
+}
+
+@media only screen and (max-width:575px) {
+    .imagest {
+        font-size: 50px;
+    }
+}
+
+@media only screen and (max-width:575px) {
+    .numbers {
+        display: none;
+    }
+}
+
+@media only screen and (max-width:575px) {
+    .numberss {
+        display: inline;
+
+    }
+}
+
+@media only screen and (max-width:575px) {
+    .imag {
+        font-size: 50px;
+    }
+}
